@@ -1,0 +1,40 @@
+{
+  "name": "swig-inflections",
+  "version": "0.1.0",
+  "description": "Use i functions as swig filters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "swig",
+    "inflections",
+    "singular",
+    "plural",
+    "camelize",
+    "underscore",
+    "dasherize",
+    "demodulize",
+    "ordinalize",
+    "uncountable",
+    "pluralize",
+    "singularize",
+    "titleize",
+    "tableize",
+    "classify",
+    "foreign_key"    
+  ],
+  "author": "dioscouri",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dioscouri/swig-inflections.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dioscouri/swig-inflections/issues"
+  },
+  "homepage": "https://github.com/dioscouri/swig-inflections",
+  "dependencies": {
+    "i": "^0.3.4"
+  }
+}
